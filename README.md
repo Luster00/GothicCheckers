@@ -27,7 +27,7 @@
 
 ## Структура проекта
 
-* GothicCheckers
+**GothicCheckers**
 * Program.cs - точка входа в программу
 * GameTypes.cs - игровые объекты
 * GameEngine.cs -движок игры
