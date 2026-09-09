@@ -28,18 +28,11 @@
 ## Структура проекта
 
 GothicCheckers
-│
-├── Program.cs - точка входа в программу
-│
-├── GameTypes.cs - игровые объекты
-│
-├── GameEngine.cs -движок игры
-│
-├── ComputerPlayer.cs - компьютерный противник
-│
-├── MainForm.cs - пользовательский интерфейс
-│
-├── MainForm.Designer.cs - файл с описанием объектов
-│
-├── GothicCheckers.csproj - информация о проекте
+Program.cs - точка входа в программу
+GameTypes.cs - игровые объекты
+GameEngine.cs -движок игры
+ComputerPlayer.cs - компьютерный противник
+MainForm.cs - пользовательский интерфейс
+MainForm.Designer.cs - файл с описанием объектов
+GothicCheckers.csproj - информация о проекте
 
